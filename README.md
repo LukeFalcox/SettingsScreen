@@ -1,6 +1,6 @@
 # accounts_settings
 
-A new Flutter project.
+Credits to Uranus Code
 
 ## Getting Started
 
